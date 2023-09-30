@@ -1,1 +1,3 @@
-# rtd
+# ReadTheDocs
+
+starting community docs
